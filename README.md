@@ -1,2 +1,3 @@
-# showip
-An extentsion to show the IP address of the current website
+# Show IP
+
+Show IPv4 & IPv6 addresses of the current webpage without doing external requests to a home server.
